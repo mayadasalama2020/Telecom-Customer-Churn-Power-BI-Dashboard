@@ -67,4 +67,6 @@ Cards, line chart (churn trend), column and bar charts, scatter charts
 Power BI Desktop, Power Query, DAX
 
 ## Author
-[Your name] | [LinkedIn link]
+[Mayada Salama] | [www.linkedin.com/in/mayada-salama
+
+]
